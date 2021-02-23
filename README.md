@@ -2,7 +2,7 @@
 <br>
 Desafio 1:<br>
 1 / 3 - Coordenadas de um Ponto<br><br>
-
+/**
  * Coordenadas de um Ponto
  *
  * Desafio:
@@ -17,7 +17,7 @@ Desafio 1:<br>
  * 
  * Entrada: A entrada contem as coordenadas de um ponto.
  * 
- * Saída: A saída deve apresentar o quadrante em que o ponto se encontra.<br><br>
+ * Saída: A saída deve apresentar o quadrante em que o ponto se encontra.**/<br><br>
 
 Desafio 2:<br>
 2 / 3 - Compras no Supermercado<br>
