@@ -30,7 +30,7 @@ Desafio 3:<br>
  * Pink e Cérebro
  * Desafio:
  - Pink e Cérebro dividem um apartamento e estão juntos 24h por dia desde o começo da pandemia. Para passar o tempo, Pink cria problemas matemáticos para Cérebro resolver, o último deles foi uma lista de números com a seguinte pergunta: quantos números da lista são múltiplos de 2, 3, 4 e 5?<br>
- * - Apesar de parecer simples, porém, quando a lista contém muitos números, Cérebro se confunde e acaba errando alguns cálculos.<br>
+- Apesar de parecer simples, porém, quando a lista contém muitos números, Cérebro se confunde e acaba errando alguns cálculos.<br>
 - Ajude Cérebro a resolver o desadio de Pink.<br>
  * Entrada: A primeira linha da entrada consiste em um inteiro N (1 ≤ N ≤1000), representando a quantidade de números na lista de Pink.<br>
 - A segunda linha contém N inteiros Li (1 ≤ Li ≤ 100), representando os números da lista de Pink.<br>
