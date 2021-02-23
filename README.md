@@ -2,22 +2,16 @@
 <br>
 Desafio 1:<br>
 1 / 3 - Coordenadas de um Ponto<br><br>
-/**
+
  * Coordenadas de um Ponto
- *
- * Desafio:
- * - Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano. 
- * A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).
- * 
- * - Apesar de parecer simples, porém, quando a lista contém muitos 
- * números, Cérebro se confunde e acaba errando alguns cálculos.
- * 
- * Se o ponto estiver na origem, escreva a mensagem “Origem”.
- * Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.
- * 
+ * Desafio:<br>
+ - Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano.<br>
+ A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).<br>
+ Apesar de parecer simples, porém, quando a lista contém muitos números, Cérebro se confunde e acaba errando alguns cálculos.<br>
+ Se o ponto estiver na origem, escreva a mensagem “Origem”. Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.<br>
+ 
  * Entrada: A entrada contem as coordenadas de um ponto.
- * 
- * Saída: A saída deve apresentar o quadrante em que o ponto se encontra.**/<br><br>
+ * Saída: A saída deve apresentar o quadrante em que o ponto se encontra.<br><br>
 
 Desafio 2:<br>
 2 / 3 - Compras no Supermercado<br>
