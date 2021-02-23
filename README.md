@@ -4,7 +4,7 @@ Desafio 1:<br>
 1 / 3 - Coordenadas de um Ponto<br><br>
 
  * Coordenadas de um Ponto
- * Desafio:<br>
+ * Desafio:
  - Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano.<br>
  A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).<br>
  Apesar de parecer simples, porém, quando a lista contém muitos números, Cérebro se confunde e acaba errando alguns cálculos.<br>
