@@ -1,9 +1,8 @@
 # Praticando programação em C#
 <br>
 Desafio 1:<br>
-1 / 3 - Coordenadas de um Ponto<br><br><br>
+1 / 3 - Coordenadas de um Ponto<br><br>
 
-/**
  * Coordenadas de um Ponto
  *
  * Desafio:
@@ -26,7 +25,6 @@ Desafio 1:<br>
 Desafio 2:<br>
 2 / 3 - Compras no Supermercado<br><br><br>
 
-/**
  * Compras no Supermercado
  *
  * Desafio:
@@ -53,12 +51,10 @@ Desafio 2:<br>
  * Saída:
  * - A saída contém N linhas, cada uma representando uma lista de compra, 
  * sem os itens repetidos e em ordem alfabética.
- */
 
 Desafio 3:<br>
-3 / 3 - Pink e Cérebro<br><br>
+3 / 3 - Pink e Cérebro<br>
 
-/**
  * Pink e Cérebro
  *
  * Desafio:
@@ -84,6 +80,6 @@ Desafio 3:<br>
  * - Imprima a quantidade de números múltiplos de 2, 3, 4 e 5 presentes 
  * na lista. Observe a formatação da saída nos exemplos, pois ela deve 
  * ser seguida rigorosamente.
- */<br><br>
+ <br>
 
 Obrigado a comunidade da DIO no Discord, pela ajuda: Localiza Labs Net Developer.
