@@ -23,7 +23,7 @@ Desafio 1:<br>
  */<br><br>
 
 Desafio 2:<br>
-2 / 3 - Compras no Supermercado<br><br><br>
+2 / 3 - Compras no Supermercado<br><br>
 
  * Compras no Supermercado
  *
@@ -79,7 +79,6 @@ Desafio 3:<br>
  * Saída:
  * - Imprima a quantidade de números múltiplos de 2, 3, 4 e 5 presentes 
  * na lista. Observe a formatação da saída nos exemplos, pois ela deve 
- * ser seguida rigorosamente.
- <br>
+ * ser seguida rigorosamente.<br>
 
 Obrigado a comunidade da DIO no Discord, pela ajuda: Localiza Labs Net Developer.
