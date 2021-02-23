@@ -15,15 +15,12 @@ Desafio 1:<br>
  * Se o ponto estiver na origem, escreva a mensagem “Origem”.
  * Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.
  * 
- * Entrada:
- * - A entrada contem as coordenadas de um ponto.
+ * Entrada: A entrada contem as coordenadas de um ponto.
  * 
- * Saída:
- * - A saída deve apresentar o quadrante em que o ponto se encontra.
- */<br><br>
+ * Saída: A saída deve apresentar o quadrante em que o ponto se encontra.<br><br>
 
 Desafio 2:<br>
-2 / 3 - Compras no Supermercado<br><br>
+2 / 3 - Compras no Supermercado<br>
 
  * Compras no Supermercado
  *
@@ -50,7 +47,7 @@ Desafio 2:<br>
  * 
  * Saída:
  * - A saída contém N linhas, cada uma representando uma lista de compra, 
- * sem os itens repetidos e em ordem alfabética.
+ * sem os itens repetidos e em ordem alfabética.<br><br>
 
 Desafio 3:<br>
 3 / 3 - Pink e Cérebro<br>
@@ -79,6 +76,6 @@ Desafio 3:<br>
  * Saída:
  * - Imprima a quantidade de números múltiplos de 2, 3, 4 e 5 presentes 
  * na lista. Observe a formatação da saída nos exemplos, pois ela deve 
- * ser seguida rigorosamente.<br>
+ * ser seguida rigorosamente.<br><br>
 
 Obrigado a comunidade da DIO no Discord, pela ajuda: Localiza Labs Net Developer.
